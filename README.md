@@ -21,11 +21,28 @@
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: C, C++, Python, Java (Basic), JavaScript  
-- **Frontend**: HTML, CSS, React  
-- **Backend**: Node and Express  
-- **Database**: MongoDB  
-- **Tools**: Git and GitHub  
+### 💻 Languages
+- 🟦 C, C++
+- 🐍 Python
+- ☕ Java (Basic)
+- 📜 JavaScript
+
+### 🌐 Frontend
+- 🌍 HTML5
+- 🎨 CSS3
+- ⚛️ React
+
+### 🖥️ Backend
+- 🟩 Node.js
+- ⚙️ Express.js
+
+### 🗄️ Database
+- 🍃 MongoDB
+
+### 🔧 Tools & Platforms
+- 🐙 Git and GitHub
+- 📦 REST APIs
+- 🧑‍💻 VS Code
 
 ---
 
@@ -36,17 +53,14 @@
 
 - **[Job Portal](https://github.com/dhaval-desai10/Job-hunt)**  
   A job search platform for applicants and recruiters, featuring resume uploads, job filters, and application tracking.
-
-- **ThriveTogether**  
-  Contributed to this healthcare and financial support platform during the **Odoo x MSU Hackathon 2025**.
-
+  
 ---
 
 ## 🚀 Achievements
 
-- Solved **250+ problems** on LeetCode and CodeChef  
-- CodeChef **3-star rated** (1600)  
-- Participated in **Odoo x MSU Hackathon 2025**
+- ✅ Solved **250+ problems** on LeetCode and CodeChef  
+- 🌟 CodeChef **3-star rated** (1600)  
+- 🧠 Participated in **Odoo x MSU Hackathon 2025**
 
 ---
 
