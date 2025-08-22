@@ -15,7 +15,6 @@
 💬 Ask me about JavaScript, React, C++, or anything related to web development  
 📫 How to reach me: [dhavaldesai7000@gmail.com](mailto:dhavaldesai7000@gmail.com)  
 😄 Pronouns: He/Him  
-⚡ Fun fact: I enjoy solving coding problems late at night with lo-fi music 🎧
 
 ---
 
